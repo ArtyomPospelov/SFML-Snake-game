@@ -1,4 +1,4 @@
-# SFML-Snake-game
+# SFML Snake game
 SFML Snake game implementation. Flexibly customized to your taste
 ![Screenshot_2](https://github.com/user-attachments/assets/6e36c436-c49d-4955-afbd-5482b1473427)
 
